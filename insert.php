@@ -20,6 +20,7 @@
 			die("ERROR: Could not connect. "
 				. mysqli_connect_error());
 		}
+		//
 		
 		// Taking all 5 values from the form data(input)
         
